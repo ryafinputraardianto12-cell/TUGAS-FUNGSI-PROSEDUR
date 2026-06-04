@@ -2,8 +2,11 @@ Tugas Praktikum
 Materi Fungsi dan Prosedur
 -------------
 Nama     : Ryafin Putra Ardianto
+
 NIM      : TI1125111
+
 Kelas    : TI12D
+
 Matkul   : Algoritma & Pemrograman
 
 -------------
